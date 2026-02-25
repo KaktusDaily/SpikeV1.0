@@ -8,4 +8,4 @@ source chatbot_env/bin/activate  # On Windows: chatbot_env\Scripts\activate
 pip install -r requirements.txt
 
 # Run the chatbot
-python llm_chatbot.py
+python main.py
