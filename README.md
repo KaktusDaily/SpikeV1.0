@@ -13,11 +13,15 @@ run **setup.sh**
 ## About Spike
 
 <table>
-  <th>
-    hello
-  </th>
-  <tb>
-    <tr>hello</tr>
-    <tr>hi</tr>
-  </tb>
+  <tr>
+    <th colspan=2>Parameters</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+  </tr>
 </table>
