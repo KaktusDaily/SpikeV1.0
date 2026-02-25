@@ -26,3 +26,9 @@ run **setup.sh**
     <td>Woah</td>
   </tr>
 </table>
+<style>
+  table{
+    display:flex;
+  }
+</style>
+woahh
